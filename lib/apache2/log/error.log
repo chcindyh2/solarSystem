@@ -1,0 +1,111 @@
+[Mon Jun 19 18:13:05.917299 2017] [mpm_prefork:notice] [pid 3196] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:13:05.917355 2017] [core:notice] [pid 3196] AH00094: Command line: 'apache2'
+[Mon Jun 19 18:13:14.003587 2017] [mpm_prefork:notice] [pid 3196] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 18:13:50.201961 2017] [mpm_prefork:notice] [pid 3791] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:13:50.202013 2017] [core:notice] [pid 3791] AH00094: Command line: 'apache2'
+[Mon Jun 19 18:13:53.169678 2017] [mpm_prefork:notice] [pid 3791] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 18:14:13.500961 2017] [mpm_prefork:notice] [pid 4329] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:14:13.501025 2017] [core:notice] [pid 4329] AH00094: Command line: 'apache2'
+[Mon Jun 19 18:14:28.381260 2017] [mpm_prefork:notice] [pid 4329] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 18:14:30.213897 2017] [mpm_prefork:notice] [pid 4857] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:14:30.213962 2017] [core:notice] [pid 4857] AH00094: Command line: 'apache2'
+[Mon Jun 19 18:14:41.982054 2017] [core:info] [pid 4865] [client 10.240.1.64:46810] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://advancedkwk-cinthyah.c9users.io/profile-pic/index.html
+[Mon Jun 19 18:19:59.116501 2017] [mpm_prefork:notice] [pid 4857] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 18:20:01.156962 2017] [mpm_prefork:notice] [pid 5428] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:20:01.157020 2017] [core:notice] [pid 5428] AH00094: Command line: 'apache2'
+[Mon Jun 19 18:20:29.971051 2017] [mpm_prefork:notice] [pid 5428] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 18:20:31.929816 2017] [mpm_prefork:notice] [pid 5954] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 18:20:31.929868 2017] [core:notice] [pid 5954] AH00094: Command line: 'apache2'
+[Mon Jun 19 20:22:44.351000 2017] [mpm_prefork:notice] [pid 5954] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 20:50:05.184100 2017] [mpm_prefork:notice] [pid 8985] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 20:50:05.184276 2017] [core:notice] [pid 8985] AH00094: Command line: 'apache2'
+[Mon Jun 19 21:17:05.562343 2017] [core:info] [pid 8994] [client 10.240.0.119:33014] AH00128: File does not exist: /home/ubuntu/workspace/.c9/profile-pic/page.html
+[Mon Jun 19 21:17:08.993896 2017] [core:info] [pid 8995] [client 10.240.0.69:60422] AH00128: File does not exist: /home/ubuntu/workspace/.c9/profile-pic/page.html
+[Mon Jun 19 21:17:16.202892 2017] [mpm_prefork:notice] [pid 8985] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 21:17:22.277218 2017] [mpm_prefork:notice] [pid 9680] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 21:17:22.277341 2017] [core:notice] [pid 9680] AH00094: Command line: 'apache2'
+[Mon Jun 19 21:18:09.729110 2017] [mpm_prefork:notice] [pid 9680] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 21:18:11.743104 2017] [mpm_prefork:notice] [pid 10212] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 21:18:11.743173 2017] [core:notice] [pid 10212] AH00094: Command line: 'apache2'
+[Mon Jun 19 21:33:23.333343 2017] [mpm_prefork:notice] [pid 10212] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 21:33:25.205892 2017] [mpm_prefork:notice] [pid 10890] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 21:33:25.205953 2017] [core:notice] [pid 10890] AH00094: Command line: 'apache2'
+[Mon Jun 19 21:33:46.427537 2017] [mpm_prefork:notice] [pid 10890] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 21:33:48.190599 2017] [mpm_prefork:notice] [pid 11422] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 21:33:48.190652 2017] [core:notice] [pid 11422] AH00094: Command line: 'apache2'
+[Mon Jun 19 21:57:04.475176 2017] [mpm_prefork:notice] [pid 11422] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 21:57:05.609516 2017] [mpm_prefork:notice] [pid 12044] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 21:57:05.609571 2017] [core:notice] [pid 12044] AH00094: Command line: 'apache2'
+[Mon Jun 19 23:22:52.539000 2017] [mpm_prefork:notice] [pid 12044] AH00169: caught SIGTERM, shutting down
+[Mon Jun 19 23:27:38.305963 2017] [mpm_prefork:notice] [pid 13638] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Mon Jun 19 23:27:38.306027 2017] [core:notice] [pid 13638] AH00094: Command line: 'apache2'
+[Mon Jun 19 23:27:43.970058 2017] [mpm_prefork:notice] [pid 13638] AH00169: caught SIGTERM, shutting down
+[Tue Jun 20 22:59:08.969623 2017] [mpm_prefork:notice] [pid 8287] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Jun 20 22:59:08.970390 2017] [core:notice] [pid 8287] AH00094: Command line: 'apache2'
+[Wed Jun 21 16:10:34.374197 2017] [mpm_prefork:notice] [pid 8287] AH00169: caught SIGTERM, shutting down
+[Wed Jun 21 17:53:31.397008 2017] [mpm_prefork:notice] [pid 16565] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Wed Jun 21 17:53:31.398659 2017] [core:notice] [pid 16565] AH00094: Command line: 'apache2'
+[Wed Jun 21 18:00:38.370582 2017] [core:info] [pid 16573] [client 10.240.1.17:36008] AH00128: File does not exist: /home/ubuntu/workspace/data-structures-js/dataStructures.js, referer: https://advancedkwk-cinthyah.c9users.io/data-structures-js/index.html
+[Wed Jun 21 20:44:12.872710 2017] [mpm_prefork:notice] [pid 16565] AH00169: caught SIGTERM, shutting down
+[Wed Jun 21 20:44:14.100907 2017] [mpm_prefork:notice] [pid 20440] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Wed Jun 21 20:44:14.100964 2017] [core:notice] [pid 20440] AH00094: Command line: 'apache2'
+[Wed Jun 21 21:10:47.377363 2017] [mpm_prefork:notice] [pid 20440] AH00169: caught SIGTERM, shutting down
+[Wed Jun 21 21:48:57.562925 2017] [mpm_prefork:notice] [pid 21646] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Wed Jun 21 21:48:57.563973 2017] [core:notice] [pid 21646] AH00094: Command line: 'apache2'
+[Wed Jun 21 21:50:59.315289 2017] [mpm_prefork:notice] [pid 21646] AH00169: caught SIGTERM, shutting down
+[Wed Jun 21 22:03:07.800282 2017] [mpm_prefork:notice] [pid 22664] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Wed Jun 21 22:03:07.801150 2017] [core:notice] [pid 22664] AH00094: Command line: 'apache2'
+[Wed Jun 21 22:03:11.254257 2017] [core:info] [pid 22672] [client 10.240.1.32:56014] AH00128: File does not exist: /home/ubuntu/workspace/poker-game/images/black_joker.png, referer: https://advancedkwk-cinthyah.c9users.io/poker-game/index.html
+[Wed Jun 21 22:03:14.064908 2017] [core:info] [pid 22671] [client 10.240.1.32:56098] AH00128: File does not exist: /home/ubuntu/workspace/poker-game/images/black_joker.png, referer: https://advancedkwk-cinthyah.c9users.io/poker-game/index.html
+[Wed Jun 21 22:19:47.359526 2017] [core:info] [pid 22673] [client 10.240.1.19:41550] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://advancedkwk-cinthyah.c9users.io/poker-game/index.html
+[Wed Jun 21 23:05:47.646328 2017] [core:info] [pid 22674] [client 10.240.1.19:42030] AH00128: File does not exist: /home/ubuntu/workspace/poker-game/images/6_of_diamondspng, referer: https://advancedkwk-cinthyah.c9users.io/poker-game/index.html
+[Thu Jun 22 16:22:57.658367 2017] [mpm_prefork:notice] [pid 22664] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 16:22:58.834849 2017] [mpm_prefork:notice] [pid 30727] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 16:22:58.834909 2017] [core:notice] [pid 30727] AH00094: Command line: 'apache2'
+[Thu Jun 22 16:23:04.636354 2017] [core:info] [pid 30738] [client 10.240.1.60:49536] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:23:04.861328 2017] [core:info] [pid 30735] [client 10.240.1.60:49542] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:23:06.483128 2017] [core:info] [pid 30734] [client 10.240.1.60:49598] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:23:38.985027 2017] [core:info] [pid 30735] [client 10.240.0.241:60400] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:24:07.911312 2017] [core:info] [pid 30737] [client 10.240.0.182:50688] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:25:32.369609 2017] [core:info] [pid 30738] [client 10.240.0.119:50840] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:25:32.740356 2017] [core:info] [pid 30738] [client 10.240.0.119:50850] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:27:05.576860 2017] [core:info] [pid 30737] [client 10.240.0.182:52408] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:30:17.042437 2017] [core:info] [pid 30734] [client 10.240.0.182:54950] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:30:17.732713 2017] [core:info] [pid 30734] [client 10.240.0.186:41382] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:30:43.906835 2017] [core:info] [pid 30736] [client 10.240.1.32:48166] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:40:01.228007 2017] [core:info] [pid 30734] [client 10.240.1.64:41272] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:40:02.084734 2017] [core:info] [pid 30735] [client 10.240.0.241:46548] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:40:54.778865 2017] [core:info] [pid 30736] [client 10.240.1.64:42184] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html
+[Thu Jun 22 16:40:56.494761 2017] [core:info] [pid 30738] [client 10.240.0.179:51994] AH00128: File does not exist: /home/ubuntu/workspace/fe-js-cryptography/marathon.js, referer: https://advancedkwk-cinthyah.c9users.io/fe-js-cryptography/index.html?grep=caesarEncode%5C(text%2C%20shift%5C)
+[Thu Jun 22 16:41:11.182900 2017] [mpm_prefork:notice] [pid 30727] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 16:44:20.566078 2017] [mpm_prefork:notice] [pid 32359] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 16:44:20.566139 2017] [core:notice] [pid 32359] AH00094: Command line: 'apache2'
+[Thu Jun 22 16:47:27.765436 2017] [mpm_prefork:notice] [pid 32359] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 17:45:53.584268 2017] [mpm_prefork:notice] [pid 34036] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 17:45:53.585871 2017] [core:notice] [pid 34036] AH00094: Command line: 'apache2'
+[Thu Jun 22 17:46:18.382559 2017] [mpm_prefork:notice] [pid 34036] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 17:46:20.136619 2017] [mpm_prefork:notice] [pid 34565] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 17:46:20.136681 2017] [core:notice] [pid 34565] AH00094: Command line: 'apache2'
+[Thu Jun 22 18:18:37.409495 2017] [core:info] [pid 34572] [client 10.240.1.64:55632] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/www.lorempixel.com/318x180, referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index.html
+[Thu Jun 22 18:44:01.893719 2017] [mpm_prefork:notice] [pid 34565] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 18:44:03.093300 2017] [mpm_prefork:notice] [pid 36207] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 18:44:03.093347 2017] [core:notice] [pid 36207] AH00094: Command line: 'apache2'
+[Thu Jun 22 18:44:05.243057 2017] [core:info] [pid 36215] [client 10.240.0.119:58684] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 18:44:07.623925 2017] [core:info] [pid 36217] [client 10.240.1.20:54770] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 18:49:33.375744 2017] [core:info] [pid 36214] [client 10.240.0.241:49258] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 18:49:40.191730 2017] [core:info] [pid 36216] [client 10.240.1.32:43940] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 18:49:40.790734 2017] [core:info] [pid 36217] [client 10.240.1.60:50424] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 18:58:58.492453 2017] [core:info] [pid 36214] [client 10.240.0.186:42990] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 19:00:02.413090 2017] [core:info] [pid 36216] [client 10.240.1.20:39518] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 19:01:54.468446 2017] [core:info] [pid 36218] [client 10.240.1.64:40188] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 19:01:55.344868 2017] [core:info] [pid 36214] [client 10.240.1.64:40212] AH00128: File does not exist: /home/ubuntu/workspace/bootstrap/..., referer: https://advancedkwk-cinthyah.c9users.io/bootstrap/index2.html
+[Thu Jun 22 20:29:40.993221 2017] [mpm_prefork:notice] [pid 36207] AH00169: caught SIGTERM, shutting down
+[Thu Jun 22 20:31:05.315698 2017] [mpm_prefork:notice] [pid 37862] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Thu Jun 22 20:31:05.315744 2017] [core:notice] [pid 37862] AH00094: Command line: 'apache2'
+[Thu Jun 22 20:42:26.528275 2017] [core:info] [pid 37870] [client 10.240.1.64:42906] AH00128: File does not exist: /home/ubuntu/workspace/materialize/mobile.html, referer: https://advancedkwk-cinthyah.c9users.io/materialize/index.html
+[Thu Jun 22 20:42:30.665451 2017] [core:info] [pid 37871] [client 10.240.1.60:35794] AH00128: File does not exist: /home/ubuntu/workspace/materialize/badges.html, referer: https://advancedkwk-cinthyah.c9users.io/materialize/index.html
+[Thu Jun 22 21:00:01.211330 2017] [core:info] [pid 37869] [client 10.240.1.15:44788] AH00128: File does not exist: /home/ubuntu/workspace/materialize/images/sample-1.jpg, referer: https://advancedkwk-cinthyah.c9users.io/materialize/index.html
+[Tue Jun 27 16:32:35.993576 2017] [core:warn] [pid 23952] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 27 16:32:35.999226 2017] [mpm_prefork:notice] [pid 23952] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Jun 27 16:32:35.999267 2017] [core:notice] [pid 23952] AH00094: Command line: 'apache2'
+[Tue Jun 27 16:51:57.567847 2017] [core:info] [pid 23980] [client 10.240.0.182:46804] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://advancedkwk-cinthyah.c9users.io/city/index.html

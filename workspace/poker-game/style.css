@@ -1,0 +1,93 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: monospace;
+
+    overflow-x: hidden;
+
+}
+
+.table-card {
+    width:18%;
+}
+
+pre {
+
+    font-family:     "Courier New"
+
+                    Courier
+
+                    monospace;
+
+    font-size: 25px;
+
+    background: lightgrey;
+
+    color: #ff0000;
+
+}
+
+
+
+#table {
+
+    width: auto;
+
+    height: auto;
+
+    min-height: 460px;
+
+    background: #008000;
+
+    border: 3px solid brown;
+
+    border-radius: 20px;
+
+}
+
+
+
+#table-pot {
+
+    margin: 0 auto;
+
+    margin-top: -50px;
+
+    width: 250px;
+
+    height: 80px;
+
+    background-color: brown;
+
+    border: 3px solid orange;
+
+    border-radius: 20px;
+
+    color: black;
+
+}
+
+
+
+#table-pot h3 {
+
+    margin: 20px;
+
+    font-weight: normal;
+
+    text-align: center;   
+
+    color: white;
+
+}
+
+
+
+#game-holder h1 {
+
+    text-align: center;
+
+}
