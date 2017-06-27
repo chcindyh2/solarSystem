@@ -1,0 +1,99 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <script src = "https://aframe.io/releases/0.5.0/aframe.min.js"> </script>
+    </head>
+    <body> 
+        <a-scene> 
+        <a-asset>
+            <img id = "background" src = "stars.png"/>
+            <img id = "mercury" src = "mercury.jpg"/>
+            <img id = "venus" src = "venus.jpg"/>
+            <img id = "earth" src = "earth.jpg"/>
+            <img id = "mars" src = "mars.jpg"/>
+            <img id = "jupiter" src = "Jupiter.jpg"/>
+            <img id = "saturn" src = "saturn.jpg"/>
+            <img id = "uranus" src = "uranus.png"/>
+            <img id = "neptune" src = "neptune.jpg"/>
+            <img id = "pluto" src = "pluto.jpg"/>
+        </a-asset>
+            <a-sky material = "src: #background"></a-sky>
+            <a-box color = "yellow" width = "0" height = "8" depth = "1" position = "-4"></a-box>
+            <a-sphere material="src: #mercury" radius="1">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #venus" radius = "1" position = "4">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+                </a-sphere>
+            <a-sphere material = "src: #earth" radius = "1" position = "8">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #mars" radius = "1" position = "12">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #jupiter" radius = "1" position = "16">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #saturn" radius = "1" position = "20">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #uranus " radius = "1" position = "24">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #neptune" radius = "1" position = "28">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-sphere material = "src: #pluto" radius = "1" position = "32">
+                <a-animation attribute="rotation"
+                   dur="10000"
+                   fill="forwards"
+                   to="0 360 0"
+                   repeat="indefinite">
+                </a-animation>
+            </a-sphere>
+            <a-camera> 
+                <a-cursor position = "0 1 -5"></a-cursor>
+            </a-camera>
+        </a-scene>
+    </body> 
+</html>

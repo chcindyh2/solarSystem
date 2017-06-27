@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html>
+    <header>
+        <script src = "https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+    </header>
+    <body>
+        <a-scene>
+            <a-asset> 
+                <a-asset-item id = "house-mtl" src = "aframe-city-builder/assets/obj/bld_house4.mtl">
+                <a-asset-item id = "house-obj" src = "aframe-city-builder/assets/obj/bld_house4.obj">
+                <a-asset-item id = "army-mtl" src = "aframe-city-builder/assets/obj/chr_army2.mtl">
+                <a-asset-item id = "army-obj" src = "aframe-city-builder/assets/obj/chr_army2.obj">
+                <a-asset-item id = "saucer-mtl" src = "aframe-city-builder/assets/obj/alien_saucer2c.mtl"></a-asset-item>
+                <a-asset-item id = "saucer-obj" src = "aframe-city-builder/assets/obj/alien_saucer2c.obj"></a-asset-item>
+                <a-asset-item id = "alien" "alien-obj" src = "aframe-city-builder/assets/obj/alien_crawl1.mtl"></a-asset-item>
+            </a-asset>
+            
+            <a-entity id = "house" obj-model = "obj: #house-obj; mtl: #house-mtl"></a-entity>
+            <a-entity id = "army" obj-model = "obj: #army-obj; mtl: #army-mtl"></a-entity>
+            <a-entity id = "saucer" obj-model = "obj:#saucer-obj; mtl: #saucer-mtl" position = "70 70 70"></a-entity>
+        </a-scene>
+        
+    </body>
+</html>
